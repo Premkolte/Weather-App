@@ -1,0 +1,9 @@
+CardContent{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardCon{
+    background-color: rgb(252, 7, 7);
+}
